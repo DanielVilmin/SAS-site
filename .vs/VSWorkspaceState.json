@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\components",
+    "\\src\\components\\layout",
+    "\\src\\Features",
+    "\\src\\Features\\auth",
+    "\\src\\Features\\campaigns",
+    "\\src\\Features\\donate"
+  ],
+  "SelectedNode": "\\src\\Features\\auth\\LoginModal.tsx",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Paulinha Canuto\\Desktop\\IPCA\\5 Semestre\\Projeto\\site_sas_ipca\\loja-social-ipca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Paulinha Canuto\\Desktop\\IPCA\\5 Semestre\\Projeto\\site_sas_ipca\\loja-social-ipca\\src\\features\\auth\\LoginModal.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\features\\auth\\LoginModal.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Paulinha Canuto\\Desktop\\IPCA\\5 Semestre\\Projeto\\site_sas_ipca\\loja-social-ipca\\src\\features\\campaigns\\campaigns.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\features\\campaigns\\campaigns.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Paulinha Canuto\\Desktop\\IPCA\\5 Semestre\\Projeto\\site_sas_ipca\\loja-social-ipca\\src\\features\\stock\\stock.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\features\\stock\\stock.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Paulinha Canuto\\Desktop\\IPCA\\5 Semestre\\Projeto\\site_sas_ipca\\loja-social-ipca\\src\\services\\firebase.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\firebase.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Paulinha Canuto\\Desktop\\IPCA\\5 Semestre\\Projeto\\site_sas_ipca\\loja-social-ipca\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginModal.tsx",
+              "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\Desktop\\IPCA\\5 Semestre\\Projeto\\site_sas_ipca\\loja-social-ipca\\src\\features\\auth\\LoginModal.tsx",
+              "RelativeDocumentMoniker": "src\\features\\auth\\LoginModal.tsx",
+              "ToolTip": "C:\\Users\\Paulinha Canuto\\Desktop\\IPCA\\5 Semestre\\Projeto\\site_sas_ipca\\loja-social-ipca\\src\\features\\auth\\LoginModal.tsx",
+              "RelativeToolTip": "src\\features\\auth\\LoginModal.tsx",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-03T00:28:57.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "campaigns.service.ts",
+              "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\Desktop\\IPCA\\5 Semestre\\Projeto\\site_sas_ipca\\loja-social-ipca\\src\\features\\campaigns\\campaigns.service.ts",
+              "RelativeDocumentMoniker": "src\\features\\campaigns\\campaigns.service.ts",
+              "ToolTip": "C:\\Users\\Paulinha Canuto\\Desktop\\IPCA\\5 Semestre\\Projeto\\site_sas_ipca\\loja-social-ipca\\src\\features\\campaigns\\campaigns.service.ts",
+              "RelativeToolTip": "src\\features\\campaigns\\campaigns.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-03T00:28:24.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stock.service.ts",
+              "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\Desktop\\IPCA\\5 Semestre\\Projeto\\site_sas_ipca\\loja-social-ipca\\src\\features\\stock\\stock.service.ts",
+              "RelativeDocumentMoniker": "src\\features\\stock\\stock.service.ts",
+              "ToolTip": "C:\\Users\\Paulinha Canuto\\Desktop\\IPCA\\5 Semestre\\Projeto\\site_sas_ipca\\loja-social-ipca\\src\\features\\stock\\stock.service.ts",
+              "RelativeToolTip": "src\\features\\stock\\stock.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-03T00:27:55.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "firebase.ts",
+              "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\Desktop\\IPCA\\5 Semestre\\Projeto\\site_sas_ipca\\loja-social-ipca\\src\\services\\firebase.ts",
+              "RelativeDocumentMoniker": "src\\services\\firebase.ts",
+              "ToolTip": "C:\\Users\\Paulinha Canuto\\Desktop\\IPCA\\5 Semestre\\Projeto\\site_sas_ipca\\loja-social-ipca\\src\\services\\firebase.ts",
+              "RelativeToolTip": "src\\services\\firebase.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-01-03T00:26:30.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Paulinha Canuto\\Desktop\\IPCA\\5 Semestre\\Projeto\\site_sas_ipca\\loja-social-ipca\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\Paulinha Canuto\\Desktop\\IPCA\\5 Semestre\\Projeto\\site_sas_ipca\\loja-social-ipca\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-03T00:01:48.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
