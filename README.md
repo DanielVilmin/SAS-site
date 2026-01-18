@@ -1,6 +1,6 @@
-# 🏪 Loja Social SAS – Website
+# Loja Social SAS – Website
 
-## 📌 Descrição do Projeto
+## Descrição do Projeto
 
 O **Loja Social SAS Website** é um website informativo cujo principal objetivo é informar a comunidade académica do **IPCA** sobre as campanhas solidárias promovidas pelo **SAS – Serviços de Ação Social**, bem como divulgar quais os produtos mais necessários para doação à Loja Social.
 
@@ -8,7 +8,7 @@ Este projeto pretende sensibilizar e incentivar a participação da comunidade a
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - Informar a comunidade académica sobre campanhas solidárias do SAS  
 - Divulgar produtos prioritários para doação  
@@ -18,16 +18,16 @@ Este projeto pretende sensibilizar e incentivar a participação da comunidade a
 
 ---
 
-## 🧩 Funcionalidades Principais
+## Funcionalidades Principais
 
-- 📢 Divulgação de campanhas ativas  
-- 📦 Lista de produtos mais necessários para doação  
-- 🗓️ Informação sobre datas e locais de recolha  
-- 🌐 Website simples, intuitivo e acessível  
-- 📱 Design responsivo para diferentes dispositivos  
+- Divulgação de campanhas ativas  
+- Lista de produtos mais necessários para doação  
+- Informação sobre datas e locais de recolha  
+- Website simples, intuitivo e acessível  
+- Design responsivo para diferentes dispositivos  
 
 ---
-## 👥 Autores
+## Autores
 
 <table>
   <tr>
@@ -64,7 +64,7 @@ Este projeto pretende sensibilizar e incentivar a participação da comunidade a
 
 ---
 
-## 🎓 Instituição
+## Instituição
 
 **IPCA - Instituto Politécnico do Cávado e do Ave**  
 Escola Superior de Tecnologia  
@@ -73,7 +73,7 @@ Ano Letivo: 2025/2026
 
 ---
 
-## 📄 Licença
+## icença
 
 Este projeto foi desenvolvido para fins académicos no âmbito da licenciatura em Engenharia de Sistemas Informáticos do IPCA.
 
