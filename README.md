@@ -1,73 +1,88 @@
-# React + TypeScript + Vite
+# 🏪 Loja Social SAS – Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Descrição do Projeto
 
-Currently, two official plugins are available:
+O **Loja Social SAS Website** é um website informativo cujo principal objetivo é informar a comunidade académica do **IPCA** sobre as campanhas solidárias promovidas pelo **SAS – Serviços de Ação Social**, bem como divulgar quais os produtos mais necessários para doação à Loja Social.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este projeto pretende sensibilizar e incentivar a participação da comunidade académica em ações solidárias, promovendo o apoio social dentro do IPCA.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🎯 Objetivos
 
-## Expanding the ESLint configuration
+- Informar a comunidade académica sobre campanhas solidárias do SAS  
+- Divulgar produtos prioritários para doação  
+- Incentivar a participação em ações solidárias  
+- Centralizar informação relevante num único website  
+- Promover a solidariedade no contexto académico  
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+---
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## 🧩 Funcionalidades Principais
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+- 📢 Divulgação de campanhas ativas  
+- 📦 Lista de produtos mais necessários para doação  
+- 🗓️ Informação sobre datas e locais de recolha  
+- 🌐 Website simples, intuitivo e acessível  
+- 📱 Design responsivo para diferentes dispositivos  
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+---
+## 👥 Autores
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+<table>
+  <tr>
+    <td align="center">
+      <strong>Eva Gomes</strong><br>
+      Nº 27484<br>
+      <a href="mailto:a27484@alunos.ipca.pt">✉️ Email</a>
+    </td>
+    <td align="center">
+      <strong>Daniel Vilmin</strong><br>
+      Nº 28003<br>
+      <a href="mailto:a28003@alunos.ipca.pt">✉️ Email</a>
+    </td>
+    <td align="center">
+      <strong>Glória Martins</strong><br>
+      Nº 22719<br>
+      <a href="mailto:a22719@alunos.ipca.pt">✉️ Email</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Ana Paula Silva</strong><br>
+      Nº 24178<br>
+      <a href="mailto:a24178@alunos.ipca.pt">✉️ Email</a>
+    </td>
+    <td align="center">
+      <strong>Licínio Cunha</strong><br>
+      Nº 25454<br>
+      <a href="mailto:a25454@alunos.ipca.pt">✉️ Email</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+---
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+## 🎓 Instituição
+
+**IPCA - Instituto Politécnico do Cávado e do Ave**  
+Escola Superior de Tecnologia  
+Licenciatura em Engenharia de Sistemas Informáticos  
+Ano Letivo: 2025/2026
+
+---
+
+## 📄 Licença
+
+Este projeto foi desenvolvido para fins académicos no âmbito da licenciatura em Engenharia de Sistemas Informáticos do IPCA.
+
+
+
+---
+
+<div align="center">
+
+**Desenvolvido com ❤️ para ajudar a comunidade do IPCA**
+
+</div
